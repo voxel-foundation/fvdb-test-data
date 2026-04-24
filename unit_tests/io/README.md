@@ -1,3 +1,4 @@
 - test_load_basic:
     - batch.nvdb: tests loading uncompressed grid
     - smoke-blosc.nvdb: tests loading blosc compressed grid
+    - mixed_types.nvdb: tests loading a file with multiple grids of mixed types
